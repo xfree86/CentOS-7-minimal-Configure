@@ -4,7 +4,7 @@
 #/* Created on:     2015-12-22 16:00:00                          */
 #/* Author:         xujr                                         */
 #/* E-mail:         xujr@nbpt.cn                                 */
-#/* Description:    CentOS 7.x minimal安装系统配置脚本           */
+#/* Description:    CentOS 7.x minimal安装系统配置脚本            */
 #/*==============================================================*/
 
 echo "CentOS 7.x minimal安装系统配置"
